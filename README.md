@@ -1,6 +1,7 @@
-**`Hello 👋`**
+# **`Welcome 👋`**
+Hi! My name is Kuba. I am a student of management and economics from Poland. In my free time I like to program. That's all.
 
-### 🧰 Languages and Tools
+### 💻 Languages and tools which I use:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
