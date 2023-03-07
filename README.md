@@ -2,13 +2,13 @@
 Hi! My name is Kuba. I am a student of management and economics from Poland. In my free time I like to program. That's all.
 
 ### 💻 Languages and tools which I use:
-<img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" width="50px" height="30px" style="padding-right:10px; pointer-events:none;" src="https://1000logos.net/wp-content/uploads/2020/08/Unity-Logo.jpg"/>
+<a href="#" onclick="return false;"><img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+<a href="#" onclick="return false;"><img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+<a href="#" onclick="return false;"><img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></a>
+<a href="#" onclick="return false;"><img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+<a href="#" onclick="return false;"><img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></a>
+<a href="#" onclick="return false;"><img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/></a>
+<a href="#" onclick="return false;"><img align="left" width="50px" height="30px" style="padding-right:10px; pointer-events:none;" src="https://1000logos.net/wp-content/uploads/2020/08/Unity-Logo.jpg"/></a>
 <br>
 
 
