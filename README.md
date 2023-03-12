@@ -17,5 +17,5 @@ Hi! My name is Kuba. I am a student of management and economics. In my free time
 <a href="https://justbutton.netlify.app/"><img src="./Zrzut ekranu 2023-03-7 o 01.10.33.png" alt="Przykładowa strona internetowa" style="width: 100%;"></a>
 
 ### Stats:
-<a href="#" onclick="return false;"><img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=kubaglowczynski&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
-<a href="#" onclick="return false;"><img align="center" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaglowczynski&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="#" onclick="return false;"><img align="center" height="150px" width="60%" src="https://github-readme-stats.vercel.app/api?username=kubaglowczynski&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="#" onclick="return false;"><img align="center" height="150px" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaglowczynski&layout=compact&theme=buefy&hide_border=true" /></a>
