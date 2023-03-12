@@ -1,5 +1,5 @@
 # **`Welcome 👋`**
-Hi! My name is Kuba. I am a student of management and economics. In my free time I like to program. That's all.
+Hi! My name is Kuba. I am a student of management and economics. In my free time I like to program.
 
 ### 💻 Languages and tools which I use:
 <a href="#" onclick="return false;"><img align="left" width="30px" style="padding-right:10px; pointer-events:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
@@ -15,3 +15,7 @@ Hi! My name is Kuba. I am a student of management and economics. In my free time
 
 ### Current fav project:
 <a href="https://justbutton.netlify.app/"><img src="./Zrzut ekranu 2023-03-7 o 01.10.33.png" alt="Przykładowa strona internetowa" style="width: 100%;"></a>
+
+### Stats:
+<a href="#" onclick="return false;"><img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=kubaglowczynski&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="#" onclick="return false;"><img align="center" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaglowczynski&layout=compact&theme=buefy&hide_border=true" /></a>
